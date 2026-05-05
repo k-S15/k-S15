@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**k-S15/k-S15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ШАПКА: Ссылка на эстетичную картинку из Pinterest-style ресурсов -->
+<img src="https://pinimg.com" width="100%" />
 
-Here are some ideas to get you started:
+# 𝚔-𝚂𝟻 👾
+*«Программирование — это...»*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📋 План на эту жизнь (в порядке убывания адекватности):
+- [ ] Выучить **С++** (кресты) и не вызвать Сатану 
+- [ ] Потыкать **Rust** (потому что все говорят, что он крутой)
+- [ ] Написать калькулятор на **Ассемблере** (и выжить)
+- [ ] **Главное:** не выкинуть комп в окно и сохранить последнюю нервную клетку
+
+---
+
+### 🧠 Текущий статус:
+![AI Dependency](https://shields.io) 
+![Mental Health](https://shields.io)
+
+---
+
+### 🕯 Муд:
+*Пытаюсь не стать рабом контроля версий и не продать душу нейросетям.*
+
+</div>
+
